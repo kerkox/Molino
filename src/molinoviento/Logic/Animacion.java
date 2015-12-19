@@ -156,13 +156,13 @@ public class Animacion extends JComponent {
 
             switch (clics) {
                 case 0:
-                    velocidad = 15;
+                    velocidad = 10;
                     pause();
                     init();
 
                     break;
                 case 1:
-                    velocidad = 5;
+                    velocidad = 2;
                     pause();
                     init();
 
